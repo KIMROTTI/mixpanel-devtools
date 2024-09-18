@@ -1,6 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Mixpanel DevTools",
+  "icons": {
+    "16": "public/icon.png",
+    "48": "public/icon.png",
+    "128": "public/icon.png"
+  },
   "version": "1.0",
   "description": "A Chrome extension to log and analyze Mixpanel events.",
   "permissions": ["webRequest", "storage", "activeTab", "scripting"],
