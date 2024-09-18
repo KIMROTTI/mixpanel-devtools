@@ -8,4 +8,4 @@ This extension enables developers to easily detect and debug Mixpanel events dir
 
 * This extension is made by a private developer, please let us know if you have any issues
 
-email : ![kimrotti6239@gmail.com](mailto:kimrotti6239@gmail.com)
+email : [kimrotti6239@gmail.com](mailto:kimrotti6239@gmail.com)
