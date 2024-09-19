@@ -12,12 +12,6 @@
   "background": {
     "service_worker": "background.js"
   },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["panel.js"]
-    }
-  ],
   "host_permissions": ["<all_urls>"],
   "devtools_page": "devtools.html"
 }
