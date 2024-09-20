@@ -8,7 +8,7 @@
   },
   "version": "1.0",
   "description": "A Chrome extension to log and analyze Mixpanel events.",
-  "permissions": ["webRequest", "storage", "activeTab", "scripting"],
+  "permissions": ["webRequest"],
   "background": {
     "service_worker": "background.js"
   },
